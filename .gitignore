@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+
+# Don't ignore these
+!*.asm
+!.gitignore
