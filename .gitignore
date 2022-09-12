@@ -1,7 +1,7 @@
-# Ignore everything
+#ignore all files
 *
 
-
-# Don't ignore these
-!*.asm
+# except these
+!**/*.asm
 !.gitignore
+!**/
